@@ -1,5 +1,4 @@
 using NetTopologySuite.Geometries;
-using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace ConferencePlanner.GraphQL.Data
